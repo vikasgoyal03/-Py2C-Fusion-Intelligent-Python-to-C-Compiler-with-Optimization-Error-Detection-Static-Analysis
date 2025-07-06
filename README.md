@@ -1,0 +1,2 @@
+# -Py2C-Fusion-Intelligent-Python-to-C-Compiler-with-Optimization-Error-Detection-Static-Analysis
+Py2C Fusion is a Python-based desktop application designed to analyze Python code, detect errors, and translate it into  optimized C code. Built using the tkinter GUI framework, the tool provides an interactive interface for users to input or  load Python scripts, run various analyses, and view results in a structured, readable format. 
